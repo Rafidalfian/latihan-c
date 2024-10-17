@@ -2,6 +2,5 @@
 latihan git dangan XI RPL C
 
 Riyana
-Resya
+R9
 Rino
-Iqbal
